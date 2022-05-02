@@ -23,3 +23,9 @@
        ```        
          ![](./images/gethash.png)
           
+          
+          
+## Resources and Reading
+- [A Meaningful MD5 Hash Collision Attack](https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1020&context=etd_projects)
+- [A Meaningful MD5 Hash Collision Attack](https://dl.acm.org/doi/book/10.5555/1209579)
+- 
