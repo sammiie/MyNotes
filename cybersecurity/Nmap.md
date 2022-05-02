@@ -22,6 +22,28 @@
     
       ![](./images/arp.png)
     
+  - ### arp-scan
+    - ***This is the scanner built around ARP Queries<br> it provides many options to customize your scan.***
+    ```
+    apt install arp-scan
+    ```
+    ```
+    arp-scan --help
+    ```
+    ![](./images/arp2.png)
     
-    
-    
+  - ### ICMP 
+  - 
+   - #### ICMP Echo to discover live hosts
+  ```
+  nmap -PE -sn TARGET
+  ```
+   - #### ICMP Timestamp to discover live hosts
+  ```
+  nmap -PP -sn TARGET
+  ```
+   - #### ICMP Address Mask to discover live hosts
+  ```
+  nmap -PM -sn TARGET
+  ```
+  
