@@ -1,0 +1,2 @@
+- ![AbuseIPDB](https://www.abuseipdb.com/)
+- ![Cisco Talos Intelligence Group](https://www.talosintelligence.com/)
