@@ -224,3 +224,4 @@
 # References and Reading
   - [TryHackMe Nmap Live Host Discovery Room](https://tryhackme.com/room/nmap01)
   -  [THM Nmap Basic Port Scans Room](Nmap Basic Port Scans)
+  -  [Well Known Ports](http://www.vmaxx.net/techinfo/ports.htm)
